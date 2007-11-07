@@ -1,0 +1,10 @@
+#summary The Landing page for the RewriteDB project
+#labels Featured
+
+= Introduction =
+
+RewriteDB is a C application which is designed to be used with the Apache Webserver [http://httpd.apache.org/docs/1.3/mod/mod_rewrite.html mod_rewrite]module. It allows you to dynamically map arbitrary mod_rewrite URLs to one or more real URLs. It is useful for site management, or to increase search engine visibility. The backend datbaase is [http://www.sqlite.org SQLite], meaning you can also manipulate the rewrite rules using a language such as [http://www.php.net PHP] without having to reboot the web server.
+
+= Useful Links =
+  * [http://www.sqlite.org SQLite Homepage]
+  * [RewriteDBSchema] - The Rewrite DB SQLite Schema
